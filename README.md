@@ -1,4 +1,4 @@
-Shopping Wishlist Manager
+******Shopping Wishlist Manager******
 
 A console-based Java application that manages a shopping wishlist using a singly linked list. You can add items with prices, display the wishlist, sort it by price, remove an item and view the total cost. The wishlist is saved to a text file, so it is still there the next time you run the program.
 
